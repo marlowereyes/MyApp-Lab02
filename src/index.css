@@ -1,0 +1,31 @@
+.artist-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.layout {
+    background: #eee;
+    margin-top: 10px;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.information p {
+    margin: 0;
+    padding: 0px 0px 2px 0px;
+}
+
+.app {
+    padding: 0rem 9rem 5rem 9rem;
+}
+
+.app h1 {
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+
